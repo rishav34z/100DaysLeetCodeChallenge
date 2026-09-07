@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3794-reverse-string-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3931-check-adjacent-digit-differences) |
 ## Divide and Conquer
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3794-reverse-string-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
